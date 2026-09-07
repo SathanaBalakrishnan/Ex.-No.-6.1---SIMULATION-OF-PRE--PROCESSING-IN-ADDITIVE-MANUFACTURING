@@ -45,8 +45,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Sathana B
+### Register Number: 212225040689
+<img width="1917" height="1020" alt="Screenshot 2026-09-06 212811" src="https://github.com/user-attachments/assets/541e7984-9c72-4e51-a466-0116ed389c13" />
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
